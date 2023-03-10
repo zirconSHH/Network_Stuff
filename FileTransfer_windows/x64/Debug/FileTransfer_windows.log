@@ -1,0 +1,5 @@
+﻿  FileTransfer_windows.cpp
+A:\code\c++\FileTransfer_windows\FileTransfer.h(19,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+A:\code\c++\FileTransfer_windows\FileTransfer.h(21,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+A:\code\c++\FileTransfer_windows\FileTransfer.h(121,15): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+  FileTransfer_windows.vcxproj -> A:\code\c++\FileTransfer_windows\x64\Debug\FileTransfer_windows.exe
